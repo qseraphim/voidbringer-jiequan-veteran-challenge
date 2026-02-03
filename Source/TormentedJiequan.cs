@@ -542,7 +542,7 @@ public class TormentedJiequan : BaseUnityPlugin {
             AttackSpeedChanger();
             Phase3Enabler();
             WeightChanger();
-            ToastManager.Toast("Success");
+            //ToastManager.Toast("Success");
         }
     }
 
